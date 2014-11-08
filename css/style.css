@@ -1,0 +1,34 @@
+body {
+	background-color: #ecf0f1;
+}
+.innerbox {
+	height: 300px;
+	width: 300px;
+	float:left;
+	opacity: 0.5;
+}
+.lit {
+	opacity: 1;
+}
+.hidden {
+	display: none;
+}
+#outerbox {
+	height: 600px;
+	width: 600px;
+	margin-left: auto;
+  	margin-right: auto;
+  	margin-top: 75px;
+}
+#red {
+	background-color: #CF000F;
+}
+#green {
+	background-color: #26A65B;
+}
+#blue {
+	background-color: #4183D7;
+}
+#yellow {
+	background-color: #F9BF3B;
+}
