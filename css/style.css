@@ -1,6 +1,14 @@
 body {
 	background-color: #ecf0f1;
 }
+#title1 {
+	font-size: 65px;
+}
+#by {
+	margin-left:2px;
+	margin-top:-65px;
+	font-size: 30px;
+}
 .innerbox {
 	height: 300px;
 	width: 300px;
@@ -10,6 +18,11 @@ body {
 .lit {
 	opacity: 1;
 }
+.words {
+	color: #6C7A89;
+	font-family: 'Raleway', sans-serif;
+}
+
 .hidden {
 	display: none;
 }
